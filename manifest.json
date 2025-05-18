@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Google Map Shovel",
+  "version": "1.0",
+  "description": "Extract leads from Google Map",
+  "permissions": ["scripting", "activeTab", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": []
+}
