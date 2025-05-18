@@ -11,7 +11,7 @@
 ### Installation Guide
 
 1. Download the [source code](https://github.com/Zain-ul-din/google-map-shovel/archive/refs/heads/master.zip')
-2. Go to [this link](chrome://extensions/) in Chrome to open extensions and click this button
+2. Go to [this link](chrome://extensions/) `chrome://extensions/` in Chrome to open extensions and click this button
 
 ![image](https://github.com/user-attachments/assets/8fd2ee88-d38c-4dd0-a431-182ce70bd062)
 
